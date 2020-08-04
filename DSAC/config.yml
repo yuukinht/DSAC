@@ -1,0 +1,6 @@
+mustVerify: true
+allowForge: true
+allowBadlion: true
+allowLabyMod: true
+kickMsg: You have been kick by console!
+verifyMsg: Verify Success!
