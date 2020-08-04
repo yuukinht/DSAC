@@ -1,4 +1,4 @@
-- Thư mục DSAC + File Plugin.jar ném vào thư mục plugins của server.
+- Thư mục DSAC + File DSAC v1.1.jar ném vào thư mục plugins của server.
 - Không cần thư mục DSAC cũng được sau khi chạy bạn có thể vào check để config lại Plugin sẽ tự tạo thư mục mới cho bạn.
 - Client kia dùng để xác minh.
 - Liên hệ mình để cấp quyền xác minh cho server.
