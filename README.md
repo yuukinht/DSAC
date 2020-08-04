@@ -1,1 +1,5 @@
-# DSAC
+- Thư mục DSAC + File DSAC.jar ném vào thư mục plugins của server.
+- Không cần thư mục DSAC cũng được sau khi chạy bạn có thể vào check để config lại Plugin sẽ tự tạo thư mục mới cho bạn.
+- Client kia dùng để xác minh.
+- Liên hệ mình để cấp quyền xác minh cho server.
+- Yêu cầu : mở port 2468 (như mở port 25565) để plugin có thể nhận dữ liệu từ client.
