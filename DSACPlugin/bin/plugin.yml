@@ -1,0 +1,11 @@
+name: DSAC
+version: 1.0
+main: me.yuuki.dsac.Main
+commands:
+ dscheck:
+  usage: /<command> [player]
+  description: Check player verify?
+permissions:
+ dsac.bypass:
+  description: Bypass Verify!
+  default: op
